@@ -6,10 +6,10 @@ In this project we are going to be building a news feed reader. The goal is to h
 
 ## Git Setup
 
-* [ ] Create a forked copy of this project.
-* [ ] Clone your OWN version of the repository.
-* [ ] Implement the project on the main branch, committing changes regularly.
-* [ ] Push commits: `git push origin main`.
+* [x] Create a forked copy of this project.
+* [x] Clone your OWN version of the repository.
+* [x] Implement the project on the main branch, committing changes regularly.
+* [x] Push commits: `git push origin main`.
 
 ## Running the project
 
